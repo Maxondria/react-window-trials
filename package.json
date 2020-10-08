@@ -1,0 +1,22 @@
+{
+  "description": null,
+  "main": "src/index.js",
+  "dependencies": {
+    "memoize-one": "^5",
+    "react": "^16.6",
+    "react-dom": "^16.6",
+    "react-window": "^1"
+  },
+  "keywords": [],
+  "name": "react-window-at-its-best",
+  "version": "0.0.19",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
